@@ -2,7 +2,7 @@ public class AnswerSheet
 
 {
 
-	private String answer;
+	private String answer;//修改
 	private String name;
 
 
